@@ -239,15 +239,15 @@ My work is centered around **Python backend development**, **web products**, **R
 
 <div align="center">
 
-<a href="https://github.com/hoppa1231/ai-project">
+<a href="https://github.com/hoppa1231/fora-soft">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoppa1231&repo=ai-project&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/hoppa1231/Templater">
+<a href="https://github.com/hoppa1231/tvbuilder-m">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoppa1231&repo=Templater&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/hoppa1231/soft_media_group">
+<a href="https://github.com/hoppa1231/ThinkDSP">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoppa1231&repo=soft_media_group&theme=tokyonight&hide_border=true" />
 </a>
 
